@@ -1,0 +1,7 @@
+#cordova project folder not concerned
+/css
+/img
+/res
+/spec
+config.xml
+spec.html
