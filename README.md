@@ -1,4 +1,4 @@
-# cordova-bootstrap
+# cordova-requirejs
 
 Cordova from Apache/Phonegap is constantly improving the toolbox.
 
